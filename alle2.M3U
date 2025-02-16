@@ -1,0 +1,464 @@
+#EXTM3U
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="⡷✶ ÖSTERREICH✶⢾" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/ATZ.png" group-title="AT | ÖSTERREICH",⡷✶ ÖSTERREICH✶⢾
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503322
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: CANAL+ AUSTRIA" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/ATZ.png" group-title="AT | ÖSTERREICH",AT: CANAL+ AUSTRIA
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/514481
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: OE24" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/ATZ.png" group-title="AT | ÖSTERREICH",AT: OE24
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/514480
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: ATV ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/atv.png" group-title="AT | ÖSTERREICH",AT: ATV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503321
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: ATV 2 ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/atv2.png" group-title="AT | ÖSTERREICH",AT: ATV 2 ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503320
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: DELUXE MUSIC AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/schlager-deluxe-de.png" group-title="AT | ÖSTERREICH",AT: DELUXE MUSIC AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503319
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: PRO7 AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/prosieben-austria-at.png" group-title="AT | ÖSTERREICH",AT: PRO7 AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503318
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: PRO7 MAXX AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/prosieben-maxx-austria-at.png" group-title="AT | ÖSTERREICH",AT: PRO7 MAXX AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: KABEL EINS AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/kabel-eins-austria-at.png" group-title="AT | ÖSTERREICH",AT: KABEL EINS AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503316
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: KABEL EINS DOKU AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/kabel-eins-doku-austria-at.png" group-title="AT | ÖSTERREICH",AT: KABEL EINS DOKU AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503315
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: KRONE TV ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/krone-tv-at.png" group-title="AT | ÖSTERREICH",AT: KRONE TV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503314
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: KURIER TV ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/kurier-tv-at.png" group-title="AT | ÖSTERREICH",AT: KURIER TV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503313
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: MOTORVISION TV AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/motorvision-tv-de.png" group-title="AT | ÖSTERREICH",AT: MOTORVISION TV AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503312
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: MOTORVISION CLASSIC TV ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/motorvision-tv-de.png" group-title="AT | ÖSTERREICH",AT: MOTORVISION CLASSIC TV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503311
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: MOTORVISION MTS ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/motorvision-tv-de.png" group-title="AT | ÖSTERREICH",AT: MOTORVISION MTS ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503310
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: N24 DOKU AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/n24-doku-de.png" group-title="AT | ÖSTERREICH",AT: N24 DOKU AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503309
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: ONE TERRA ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/one-terra-de.png" group-title="AT | ÖSTERREICH",AT: ONE TERRA ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503308
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: DAZN FAST AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/dazn-de.png" group-title="AT | ÖSTERREICH",AT: DAZN FAST AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503307
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: DAZN RISE AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/dazn-de.png" group-title="AT | ÖSTERREICH",AT: DAZN RISE AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503306
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: LAOLA1 ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/laola1-at.png" group-title="AT | ÖSTERREICH",AT: LAOLA1 ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503305
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: PULS24 AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="AT | ÖSTERREICH",AT: PULS24 AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503304
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: PULS4 AT. ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/puls4-at.png" group-title="AT | ÖSTERREICH",AT: PULS4 AT. ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503303
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: KRONEHIT TV ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="AT | ÖSTERREICH",AT: KRONEHIT TV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503302
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: R9 ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/r9.png" group-title="AT | ÖSTERREICH",AT: R9 ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503301
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: REDBULL TV ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/red-bull-tv-de.png" group-title="AT | ÖSTERREICH",AT: REDBULL TV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503300
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: RIC AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/ric-de.png" group-title="AT | ÖSTERREICH",AT: RIC AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503299
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: SERVUSTV AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/servus-tv-at.png" group-title="AT | ÖSTERREICH",AT: SERVUSTV AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503298
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: SIXX AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/sixx-austria-at.png" group-title="AT | ÖSTERREICH",AT: SIXX AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503297
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: SPORT1 AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/sport1-de.png" group-title="AT | ÖSTERREICH",AT: SPORT1 AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503296
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: HIP TRIPS TV ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="AT | ÖSTERREICH",AT: HIP TRIPS TV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503295
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: JUST COOKING ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="AT | ÖSTERREICH",AT: JUST COOKING ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503294
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: WELT AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/welt-de.png" group-title="AT | ÖSTERREICH",AT: WELT AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503293
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: JUST FISHING TV ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="AT | ÖSTERREICH",AT: JUST FISHING TV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503292
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: XPLORE ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/xplore-de.png" group-title="AT | ÖSTERREICH",AT: XPLORE ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503291
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: MEINE EINKAUFWELT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="AT | ÖSTERREICH",AT: MEINE EINKAUFWELT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503290
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: PARLAMENT TV ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="AT | ÖSTERREICH",AT: PARLAMENT TV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503289
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: WEDO MOVIES AT ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="AT | ÖSTERREICH",AT: WEDO MOVIES AT ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503288
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: W24 TV ꜰʜᴅ" tvg-logo="https://www.xexelogo.com/deutschalnd/AT/w24-at.png" group-title="AT | ÖSTERREICH",AT: W24 TV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503287
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Sport.Austria.1.HD.de" tvg-name="AT: SKY SPORT AUSTRIA 1 ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/DE.sky.sport.austria.1.png?raw=true" group-title="AT | SKY SPORT AUSTRIA",AT: SKY SPORT AUSTRIA 1 ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451741
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Sport.Austria.2.HD.de" tvg-name="AT: SKY SPORT AUSTRIA 2 ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/DE.sky.sport.austria.2.png?raw=true" group-title="AT | SKY SPORT AUSTRIA",AT: SKY SPORT AUSTRIA 2 ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451740
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Sport.Austria.3.HD.de" tvg-name="AT: SKY SPORT AUSTRIA 3 RAW" tvg-logo="https://github.com/Log20202/Germ/blob/main/DE.sky.sport.austria.3.png?raw=true" group-title="AT | SKY SPORT AUSTRIA",AT: SKY SPORT AUSTRIA 3 RAW
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451739
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Sport.Austria.4.HD.de" tvg-name="AT: SKY SPORT AUSTRIA 4 ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/DE.sky.sport.austria.4.png?raw=true" group-title="AT | SKY SPORT AUSTRIA",AT: SKY SPORT AUSTRIA 4 ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451738
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Sport.Austria.5.HD.de" tvg-name="AT: SKY SPORT AUSTRIA 5 ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/DE.sky.sport.austria.5.png?raw=true" group-title="AT | SKY SPORT AUSTRIA",AT: SKY SPORT AUSTRIA 5 ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451737
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Sport.Austria.6.HD.de" tvg-name="AT: SKY SPORT AUSTRIA 6 ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/DE.sky.sport.austria.6.png?raw=true" group-title="AT | SKY SPORT AUSTRIA",AT: SKY SPORT AUSTRIA 6 ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451736
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Sport.Austria.7.HD.de" tvg-name="AT: SKY SPORT AUSTRIA 7 ʀᴀᴡ" tvg-logo="" group-title="AT | SKY SPORT AUSTRIA",AT: SKY SPORT AUSTRIA 7 ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451735
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ORF.1.ch" tvg-name="AT: ORF 1 HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.1.png?raw=true" group-title="AT | ORF",AT: ORF 1 HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451686
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: ORF III HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.3.png?raw=true" group-title="AT | ORF",AT: ORF III HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451676
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ORF.Sport.+.ch" tvg-name="AT: ORF SPORT + HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.sport.png?raw=true" group-title="AT | ORF",AT: ORF SPORT + HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451687
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: ORF 2 WIEN HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.2.png?raw=true" group-title="AT | ORF",AT: ORF 2 WIEN HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451677
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ORF.2.ch" tvg-name="AT: ORF 2 NIEDERÖSTERREICH HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.2.png?raw=true" group-title="AT | ORF",AT: ORF 2 NIEDERÖSTERREICH HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451683
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ORF.2.ch" tvg-name="AT: ORF 2 OBERÖSTERREICH HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.2.png?raw=true" group-title="AT | ORF",AT: ORF 2 OBERÖSTERREICH HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451682
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: ORF 2 SALZBURG HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.2.png?raw=true" group-title="AT | ORF",AT: ORF 2 SALZBURG HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451681
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ORF.2.ch" tvg-name="AT: ORF 2 BURGENLAND HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.2.png?raw=true" group-title="AT | ORF",AT: ORF 2 BURGENLAND HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451685
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ORF.2.ch" tvg-name="AT: ORF 2 KÄRNTEN HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.2.png?raw=true" group-title="AT | ORF",AT: ORF 2 KÄRNTEN HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451684
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: ORF 2 STEIERMARK HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.2.png?raw=true" group-title="AT | ORF",AT: ORF 2 STEIERMARK HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451680
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: ORF 2 TIROL HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.2.png?raw=true" group-title="AT | ORF",AT: ORF 2 TIROL HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451679
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AT: ORF 2 VORALBERG HD ʀᴀᴡ" tvg-logo="https://github.com/Log20202/Germ/blob/main/AT.orf.2.png?raw=true" group-title="AT | ORF",AT: ORF 2 VORALBERG HD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/451678
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="⡷✶ ALLGEMEIN✶⢾" tvg-logo="https://www.xexelogo.com/vip/DE.png" group-title="DE | ALLGEMEIN RAW",⡷✶ ALLGEMEIN✶⢾
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Das.Erste.de" tvg-name="DE: DAS ERSTE  ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/das-erste-de.png" group-title="DE | ALLGEMEIN RAW",DE: DAS ERSTE  ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Das.Erste.de" tvg-name="DE: DAS ERSTE ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/das-erste-de.png" group-title="DE | ALLGEMEIN RAW",DE: DAS ERSTE ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ARD-alpha.de" tvg-name="DE: ARD ALPHA ʀᴀᴡ" tvg-logo="https://www.xexelogo.com/deutschalnd/ard-alpha-de.png" group-title="DE | ALLGEMEIN RAW",DE: ARD ALPHA ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500051
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ARD-alpha.de" tvg-name="DE: ARD ALPHA ʜᴇᴠᴄ" tvg-logo="https://www.xexelogo.com/deutschalnd/ard-alpha-de.png" group-title="DE | ALLGEMEIN RAW",DE: ARD ALPHA ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500050
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ARTE.de" tvg-name="DE: ARTE ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/arte-de.png" group-title="DE | ALLGEMEIN RAW",DE: ARTE ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500049
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ARTE.de" tvg-name="DE: ARTE ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/arte-de.png" group-title="DE | ALLGEMEIN RAW",DE: ARTE ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500048
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kabel.eins.de" tvg-name="DE: KABELEINS ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/kabel-eins-de.png" group-title="DE | ALLGEMEIN RAW",DE: KABELEINS ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500047
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kabel.eins.de" tvg-name="DE: KABEL EINS ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/kabel-eins-de.png" group-title="DE | ALLGEMEIN RAW",DE: KABEL EINS ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500046
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SAT.1.de" tvg-name="DE: SAT.1 ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-de.png" group-title="DE | ALLGEMEIN RAW",DE: SAT.1 ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500045
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SAT.1.de" tvg-name="DE: SAT.1 ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-de.png" group-title="DE | ALLGEMEIN RAW",DE: SAT.1 ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500044
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SAT.1.Gold.de" tvg-name="DE: SAT.1 GOLD ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-gold-alt-de.png" group-title="DE | ALLGEMEIN RAW",DE: SAT.1 GOLD ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500043
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SAT.1.Gold.de" tvg-name="DE: SAT.1 GOLD ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-gold-alt-de.png" group-title="DE | ALLGEMEIN RAW",DE: SAT.1 GOLD ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500042
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SAT.1.emotions.de" tvg-name="DE: SAT.1 EMOTIONS ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-emotions-de.png" group-title="DE | ALLGEMEIN RAW",DE: SAT.1 EMOTIONS ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500041
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SAT.1.emotions.de" tvg-name="DE: SAT.1 EMOTIONS ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-emotions-de.png" group-title="DE | ALLGEMEIN RAW",DE: SAT.1 EMOTIONS ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500040
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ONE.de" tvg-name="DE: ONE ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/one-de.png" group-title="DE | ALLGEMEIN RAW",DE: ONE ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500039
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ONE.de" tvg-name="DE: ONE ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/one-de.png" group-title="DE | ALLGEMEIN RAW",DE: ONE ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500038
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ProSieben.de" tvg-name="DE: PROSIEBEN ʀᴀᴡ" tvg-logo="https://www.xexelogo.com/deutschalnd/pro-sieben-de.png" group-title="DE | ALLGEMEIN RAW",DE: PROSIEBEN ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ProSieben.de" tvg-name="DE: PRO7 ʜᴇᴠᴄ" tvg-logo="https://www.xexelogo.com/deutschalnd/pro-sieben-de.png" group-title="DE | ALLGEMEIN RAW",DE: PRO7 ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500036
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ProSieben.MAXX.de" tvg-name="DE: PRO7MAXX ʀᴀᴡ" tvg-logo="https://www.xexelogo.com/deutschalnd/pro-sieben-maxx-de.png" group-title="DE | ALLGEMEIN RAW",DE: PRO7MAXX ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500035
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ProSieben.MAXX.de" tvg-name="DE: PRO7MAXX ʜᴇᴠᴄ" tvg-logo="https://www.xexelogo.com/deutschalnd/pro-sieben-maxx-de.png" group-title="DE | ALLGEMEIN RAW",DE: PRO7MAXX ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500034
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.de" tvg-name="DE: RTL ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | ALLGEMEIN RAW",DE: RTL ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500033
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.de" tvg-name="DE: RTL ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | ALLGEMEIN RAW",DE: RTL ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500032
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.II.de" tvg-name="DE: RTL ZWEI ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-zwei-de.png" group-title="DE | ALLGEMEIN RAW",DE: RTL ZWEI ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500031
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.II.de" tvg-name="DE: RTL ZWEI ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-zwei-de.png" group-title="DE | ALLGEMEIN RAW",DE: RTL ZWEI ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500030
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DF1.de" tvg-name="DE: DF1 ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/df1-de.png" group-title="DE | ALLGEMEIN RAW",DE: DF1 ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500029
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DF1.de" tvg-name="DE: DF1 ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/df1-de.png" group-title="DE | ALLGEMEIN RAW",DE: DF1 ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500028
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sixx.de" tvg-name="DE: SIXX ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/sixx-de.png" group-title="DE | ALLGEMEIN RAW",DE: SIXX ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500027
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sixx.de" tvg-name="DE: SIXX ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/sixx-de.png" group-title="DE | ALLGEMEIN RAW",DE: SIXX ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500026
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="VOX.de" tvg-name="DE: VOX ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/vox-de.png" group-title="DE | ALLGEMEIN RAW",DE: VOX ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500025
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="VOX.de" tvg-name="DE: VOX ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/vox-de.png" group-title="DE | ALLGEMEIN RAW",DE: VOX ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500024
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="VOXup.de" tvg-name="DE: VOXUP ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/vox-up-de.png" group-title="DE | ALLGEMEIN RAW",DE: VOXUP ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500023
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="VOXup.de" tvg-name="DE: VOXUP ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/vox-up-de.png" group-title="DE | ALLGEMEIN RAW",DE: VOXUP ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500022
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ZDF.de" tvg-name="DE: ZDF ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/zdf-de.png" group-title="DE | ALLGEMEIN RAW",DE: ZDF ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500021
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ZDF.de" tvg-name="DE: ZDF ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/zdf-de.png" group-title="DE | ALLGEMEIN RAW",DE: ZDF ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500020
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ZDFneo.de" tvg-name="DE: ZDF NEO ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/zdf-neo-de.png" group-title="DE | ALLGEMEIN RAW",DE: ZDF NEO ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500019
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ZDFneo.de" tvg-name="DE: ZDF NEO ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/zdf-neo-de.png" group-title="DE | ALLGEMEIN RAW",DE: ZDF NEO ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500018
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Romance.TV.de" tvg-name="DE: ROMANCE TV ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/romance-tv-de.png" group-title="DE | ALLGEMEIN RAW",DE: ROMANCE TV ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500017
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Romance.TV.de" tvg-name="DE: ROMANCE TV ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/romance-tv-de.png" group-title="DE | ALLGEMEIN RAW",DE: ROMANCE TV ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500016
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ProSieben.Fun.de" tvg-name="DE: PRO7 FUN ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/pro-sieben-fun-de.png" group-title="DE | ALLGEMEIN RAW",DE: PRO7 FUN ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500015
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ProSieben.Fun.de" tvg-name="DE: PRO7 FUN ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/pro-sieben-fun-de.png" group-title="DE | ALLGEMEIN RAW",DE: PRO7 FUN ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500014
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NITRO.de" tvg-name="DE: NITRO ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/nitro-de.png" group-title="DE | ALLGEMEIN RAW",DE: NITRO ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500013
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NITRO.de" tvg-name="DE: NITRO ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/nitro-de.png" group-title="DE | ALLGEMEIN RAW",DE: NITRO ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500012
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Heimatkanal.de" tvg-name="DE: HEIMATKANAL ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/heimatkanal-de.png" group-title="DE | ALLGEMEIN RAW",DE: HEIMATKANAL ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500011
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Heimatkanal.de" tvg-name="DE: HEIMATKANAL ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/heimatkanal-de.png" group-title="DE | ALLGEMEIN RAW",DE: HEIMATKANAL ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500010
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TELE.5.de" tvg-name="DE: TELE5 ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/tele-5-de.png" group-title="DE | ALLGEMEIN RAW",DE: TELE5 ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500009
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TELE.5.de" tvg-name="DE: TELE5 ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/tele-5-de.png" group-title="DE | ALLGEMEIN RAW",DE: TELE5 ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BonGusto.de" tvg-name="DE: BONGUSTO ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/bon-gusto-de.png" group-title="DE | ALLGEMEIN RAW",DE: BONGUSTO ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500007
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Fashion.TV.de" tvg-name="DE: FASHION TV ʀᴀᴡ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="DE | ALLGEMEIN RAW",DE: FASHION TV ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500006
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: WAIDWERK TV ʀᴀᴡ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="DE | ALLGEMEIN RAW",DE: WAIDWERK TV ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500005
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="⡷✶ ᴛɪᴍᴇꜱʜɪꜰᴛ✶⢾" tvg-logo="https://www.xexelogo.com/vip/DE.png" group-title="DE | TIMESHIFT ʜᴅ",⡷✶ ᴛɪᴍᴇꜱʜɪꜰᴛ✶⢾
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503706
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Das.Erste.de" tvg-name="DE: DAS ERSTE ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/das-erste-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: DAS ERSTE ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503755
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ARD-alpha.de" tvg-name="DE: ARD ALPHA ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/ard-alpha-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: ARD ALPHA ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503754
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ARTE.de" tvg-name="DE: ARTE ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/arte-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: ARTE ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503753
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kabel.eins.de" tvg-name="DE: KABEL EINS ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/kabel-eins-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: KABEL EINS ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503752
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kabel.eins.Doku.de" tvg-name="DE: KABEL EINS DOKU ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/kabel-eins-doku-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: KABEL EINS DOKU ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503751
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SAT.1.de" tvg-name="DE: SAT 1 ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: SAT 1 ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503750
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SAT.1.emotions.de" tvg-name="DE: SAT 1 EMOTIONS ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-emotions-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: SAT 1 EMOTIONS ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503749
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SAT.1.Gold.de" tvg-name="DE: SAT 1 GOLD ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-gold-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: SAT 1 GOLD ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503748
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ONE.de" tvg-name="DE: ONE ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/one-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: ONE ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503747
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ProSieben.MAXX.de" tvg-name="DE: PRO7 MAXX ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/pro-sieben-maxx-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: PRO7 MAXX ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503746
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ProSieben.de" tvg-name="DE: PROSIEBEN ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/pro-sieben-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: PROSIEBEN ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503745
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.de" tvg-name="DE: RTL ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: RTL ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503744
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NITRO.de" tvg-name="DE: RTL NITRO ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/nitro-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: RTL NITRO ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503743
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.II.de" tvg-name="DE: RTL ZWEI ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-zwei-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: RTL ZWEI ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503742
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.Passion.de" tvg-name="DE: RTL PASSION ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-passion-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: RTL PASSION ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/510302
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.Living.de" tvg-name="DE: RTL LIVING ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-living-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: RTL LIVING ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503740
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SUPER.RTL.de" tvg-name="DE: SUPER RTL ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-super-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: SUPER RTL ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503741
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ZDF.de" tvg-name="DE: ZDF ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/zdf-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: ZDF ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503738
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="VOX.de" tvg-name="DE: VOX ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/vox-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: VOX ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503739
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ZDFinfo.de" tvg-name="DE: ZDF INFO ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/zdf-info-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: ZDF INFO ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503737
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ZDFneo.de" tvg-name="DE: ZDF NEO ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/zdf-neo-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: ZDF NEO ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503736
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TLC.de" tvg-name="DE: TLC ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/tlc-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: TLC ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503735
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Nat.Geo.HD.de" tvg-name="DE: NATIONAL GEOGRAPHIC ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/national-geographic-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: NATIONAL GEOGRAPHIC ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503734
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NAT.GEO.WILD.de" tvg-name="DE: NAT GEO WILD ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/nat-geo-wild-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: NAT GEO WILD ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503733
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="DE: SKY CINEMA HIGHLIGHTS ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/sky-cinema-highlights-alt-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: SKY CINEMA HIGHLIGHTS ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503732
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Family.de" tvg-name="DE: SKY CINEMA FAMILY ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/sky-cinema-family-alt-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: SKY CINEMA FAMILY ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503731
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Action.de" tvg-name="DE: SKY CINEMA ACTION ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/sky-cinema-action-alt-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: SKY CINEMA ACTION ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503730
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sky.Cinema.Premieren.de" tvg-name="DE: SKY CINEMA PREMIERE ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/sky-cinema-premiere-alt-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: SKY CINEMA PREMIERE ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503729
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="13TH.STREET.de" tvg-name="DE: 13TH STREET ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/13th-street-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: 13TH STREET ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503728
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Warner.TV.Comedy.de" tvg-name="DE: WARNER TV COMEDY ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/warner-tv-comedy-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: WARNER TV COMEDY ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503727
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Warner.TV.Film.de" tvg-name="DE: WARNER TV FILM ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/warner-tv-film-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: WARNER TV FILM ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Warner.TV.Serie.de" tvg-name="DE: WARNER TV SERIE ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/warner-tv-serie-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: WARNER TV SERIE ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503725
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Syfy.de" tvg-name="DE: SYFY ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/syfy-de.png" group-title="DE | TIMESHIFT ʜᴅ",DE: SYFY ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503724
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DAZN.1.de" tvg-name="DE: DAZN 1 ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/DAZN1.png" group-title="DE | TIMESHIFT ʜᴅ",DE: DAZN 1 ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503723
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DAZN.2.de" tvg-name="DE: DAZN 2 ᴛɪᴍᴇꜱʜɪꜰᴛ" tvg-logo="http://www.xexelogo.com/deutschalnd/dazn2.png" group-title="DE | TIMESHIFT ʜᴅ",DE: DAZN 2 ᴛɪᴍᴇꜱʜɪꜰᴛ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/503722
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="⡷✶ REGIONAL ✶⢾" tvg-logo="https://www.xexelogo.com/vip/DE.png" group-title="DE | REGIONAL ʜᴅ",⡷✶ REGIONAL ✶⢾
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500113
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ATV.de" tvg-name="DE: A.TV ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/a-tv-de.png" group-title="DE | REGIONAL ʜᴅ",DE: A.TV ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500112
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BR.de" tvg-name="DE: BR FERNSEHEN NORD ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/br-fernsehen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: BR FERNSEHEN NORD ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500111
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BR.de" tvg-name="DE: BR FERNSEHEN SUD ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/br-fernsehen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: BR FERNSEHEN SUD ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500110
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: FRANKEN FERNSEHEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/tv-mainfranken-de.png" group-title="DE | REGIONAL ʜᴅ",DE: FRANKEN FERNSEHEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500109
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HR.de" tvg-name="DE: HR ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/hr-de.png" group-title="DE | REGIONAL ʜᴅ",DE: HR ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500108
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MDR.de" tvg-name="DE: MDR FERNSEHEN SACHSEN ANHALT ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/mdr-sachsen-anhalt-de.png" group-title="DE | REGIONAL ʜᴅ",DE: MDR FERNSEHEN SACHSEN ANHALT ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500107
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MDR.de" tvg-name="DE: MDR FERNSEHEN THÜRINGEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/mdr-thuringen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: MDR FERNSEHEN THÜRINGEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500106
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="münchen.tv.de" tvg-name="DE: MÜNCHEN.TV ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/munchen-tv-de.png" group-title="DE | REGIONAL ʜᴅ",DE: MÜNCHEN.TV ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500105
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NDR.de" tvg-name="DE: NDR FERNSEHEN SCHLESWING HOLSTEIN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/ndr-hamburg-de.png" group-title="DE | REGIONAL ʜᴅ",DE: NDR FERNSEHEN SCHLESWING HOLSTEIN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500104
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NDR.de" tvg-name="DE: NDR FERNSEHEN MECKLENBURG VORPOMMERN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/ndr-mecklenburg-vorpommern-de.png" group-title="DE | REGIONAL ʜᴅ",DE: NDR FERNSEHEN MECKLENBURG VORPOMMERN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500103
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MDR.de" tvg-name="DE: MDR FERNSEHEN NIEDERSACHSEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/ndr-de.png" group-title="DE | REGIONAL ʜᴅ",DE: MDR FERNSEHEN NIEDERSACHSEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500102
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NDR.de" tvg-name="DE: NDR FERNSEHEN HAMBURG ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/ndr-de.png" group-title="DE | REGIONAL ʜᴅ",DE: NDR FERNSEHEN HAMBURG ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500101
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MDR.de" tvg-name="DE: MDR FERNSEHEN SACHSEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/mdr-de.png" group-title="DE | REGIONAL ʜᴅ",DE: MDR FERNSEHEN SACHSEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500100
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: NIEDERBAYERN TV DEGGENDORF STRAUBING ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/niederbayern-tv-deggendorf-straubing-de.png" group-title="DE | REGIONAL ʜᴅ",DE: NIEDERBAYERN TV DEGGENDORF STRAUBING ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500099
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: NIEDERBAYERN TV LANDSHUT ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/niederbayern-tv-landshut-de.png" group-title="DE | REGIONAL ʜᴅ",DE: NIEDERBAYERN TV LANDSHUT ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500098
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: NIEDERBAYERN TV PASSAU ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/niederbayern-tv-passau-de.png" group-title="DE | REGIONAL ʜᴅ",DE: NIEDERBAYERN TV PASSAU ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500097
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: NRWISION ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/nrwision-de.png" group-title="DE | REGIONAL ʜᴅ",DE: NRWISION ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500096
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: OBERPFALZ TV ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/oberpfalz-tv-de.png" group-title="DE | REGIONAL ʜᴅ",DE: OBERPFALZ TV ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500095
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: KTV ʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="DE | REGIONAL ʜᴅ",DE: KTV ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500094
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: ALLGÄU.TV ʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="DE | REGIONAL ʜᴅ",DE: ALLGÄU.TV ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500093
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: OK4 ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/ok4-de.png" group-title="DE | REGIONAL ʜᴅ",DE: OK4 ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500092
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: OK54 TRIER ʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="DE | REGIONAL ʜᴅ",DE: OK54 TRIER ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500091
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: OK WEINSTRASSE ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/ok-weinstrasse-de.png" group-title="DE | REGIONAL ʜᴅ",DE: OK WEINSTRASSE ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500090
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: OK TV LUDWIGSHAFEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/oktv-ludwigshafen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: OK TV LUDWIGSHAFEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500089
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: OK TV MAINZ ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/oktv-mainz-de.png" group-title="DE | REGIONAL ʜᴅ",DE: OK TV MAINZ ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500088
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: RADIO BREMEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/radio-bremen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: RADIO BREMEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500087
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RBB.de" tvg-name="DE: RBB FERNSEHEN BERLIN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rbb-berlin-de.png" group-title="DE | REGIONAL ʜᴅ",DE: RBB FERNSEHEN BERLIN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500086
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RBB.de" tvg-name="DE: RBB FERNSEHEN BRANDEBURG ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rbb-brandenburg-de.png" group-title="DE | REGIONAL ʜᴅ",DE: RBB FERNSEHEN BRANDEBURG ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500085
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: RFO ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rfo-de.png" group-title="DE | REGIONAL ʜᴅ",DE: RFO ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500084
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: SALVE.TV ʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="DE | REGIONAL ʜᴅ",DE: SALVE.TV ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500083
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: SAT.1 BAYERN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-bayern-de.png" group-title="DE | REGIONAL ʜᴅ",DE: SAT.1 BAYERN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500082
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: SAT.1 HAMBURG UND SCHLESWIG HOLSTEIN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-hamburg-schleswig-holstein-de.png" group-title="DE | REGIONAL ʜᴅ",DE: SAT.1 HAMBURG UND SCHLESWIG HOLSTEIN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500081
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: SAT.1 NIEDERSACHSEN UND BREMEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-niedersachsen-bremen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: SAT.1 NIEDERSACHSEN UND BREMEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500080
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: SAT.1 NORDRHEIN WESTFALEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-nordrhein-westfalen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: SAT.1 NORDRHEIN WESTFALEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500079
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: SAT.1 RHEINLAND PFALZ UND HESSEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/sat-1-rheinland-pfalz-hessen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: SAT.1 RHEINLAND PFALZ UND HESSEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500078
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SWR/SR.de" tvg-name="DE: SR ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/sr-fernsehen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: SR ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500077
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SWR/SR.de" tvg-name="DE: SWR FERNSEHEN BW ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/swr-de.png" group-title="DE | REGIONAL ʜᴅ",DE: SWR FERNSEHEN BW ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500076
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SWR/SR.de" tvg-name="DE: SWR FERNSEHEN RP ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/swr-de.png" group-title="DE | REGIONAL ʜᴅ",DE: SWR FERNSEHEN RP ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500075
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: TV MAINFRANKEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/tv-mainfranken-de.png" group-title="DE | REGIONAL ʜᴅ",DE: TV MAINFRANKEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500074
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: TV OBERFRANKEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/tv-oberfranken-de.png" group-title="DE | REGIONAL ʜᴅ",DE: TV OBERFRANKEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500073
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: TV INGOLSTADT ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/tv-ingolstadt-de.png" group-title="DE | REGIONAL ʜᴅ",DE: TV INGOLSTADT ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500072
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: TVA OSTBAYERN ʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="DE | REGIONAL ʜᴅ",DE: TVA OSTBAYERN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500071
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WDR.de" tvg-name="DE: WDR FERNSEHEN AACHEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-aachen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN AACHEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500070
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WDR.de" tvg-name="DE: WDR FERNSEHEN BIELEFELD ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-bielefeld-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN BIELEFELD ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500069
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WDR.de" tvg-name="DE: WDR FERNSEHEN BONN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-bonn-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN BONN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500068
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WDR.de" tvg-name="DE: WDR FERNSEHEN DORTMUND ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-dortmund-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN DORTMUND ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WDR.de" tvg-name="DE: WDR FERNSEHEN DUISBURG ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-duisburg-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN DUISBURG ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500066
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WDR.de" tvg-name="DE: WDR FERNSEHEN DÜSSELDORF ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-duisburg-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN DÜSSELDORF ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500065
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WDR.de" tvg-name="DE: WDR FERNSEHEN ESSEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-essen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN ESSEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: WDR FERNSEHEN KÖLN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN KÖLN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: WDR FERNSEHEN MÜNSTER ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-munster-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN MÜNSTER ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: WDR FERNSEHEN SIEGEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-siegen-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN SIEGEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500061
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: WDR FERNSEHEN WUPPERTAL ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/wdr-wuppertal-de.png" group-title="DE | REGIONAL ʜᴅ",DE: WDR FERNSEHEN WUPPERTAL ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: GOLDSTAR TV ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/goldstar-tv-de.png" group-title="DE | REGIONAL ʜᴅ",DE: GOLDSTAR TV ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500059
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: HORSE & COUNTRY ʜᴅ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="DE | REGIONAL ʜᴅ",DE: HORSE & COUNTRY ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: HR FERNSEHEN  ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/hr-de.png" group-title="DE | REGIONAL ʜᴅ",DE: HR FERNSEHEN  ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: SILVERLINE ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/silverline-de.png" group-title="DE | REGIONAL ʜᴅ",DE: SILVERLINE ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: HSE ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/hse-de.png" group-title="DE | REGIONAL ʜᴅ",DE: HSE ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="⡷✶ RTL ✶⢾" tvg-logo="https://www.xexelogo.com/vip/DE.png" group-title="DE | RTL",⡷✶ RTL ✶⢾
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500154
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.de" tvg-name="DE: RTL ᴜʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | RTL",DE: RTL ᴜʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500153
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.de" tvg-name="DE: RTL ʜᴇᴠᴄ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | RTL",DE: RTL ʜᴇᴠᴄ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500152
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.de" tvg-name="DE: RTL ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | RTL",DE: RTL ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500151
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.de" tvg-name="DE: RTL ꜰʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | RTL",DE: RTL ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500150
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.II.de" tvg-name="DE: RTLZWEI ʀᴀᴡ" tvg-logo="https://www.xexelogo.com/deutschalnd/rtl-zwei-de.png" group-title="DE | RTL",DE: RTLZWEI ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500149
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.II.de" tvg-name="DE: RTL ZWEI ꜰʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-zwei-de.png" group-title="DE | RTL",DE: RTL ZWEI ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500148
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: RTL STEFAN RAAB ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | RTL",DE: RTL STEFAN RAAB ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500147
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTLup.de" tvg-name="DE: RTLUP ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-up-de.png" group-title="DE | RTL",DE: RTLUP ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500146
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTLup.de" tvg-name="DE: RTLUP ꜰʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-up-de.png" group-title="DE | RTL",DE: RTLUP ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500145
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.Crime.de" tvg-name="DE: RTL CRIME ꜰʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-crime-de.png" group-title="DE | RTL",DE: RTL CRIME ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500144
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.Crime.de" tvg-name="DE: RTL CRIME ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-crime-de.png" group-title="DE | RTL",DE: RTL CRIME ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500143
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.Living.de" tvg-name="DE: RTL LIVING ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-living-de.png" group-title="DE | RTL",DE: RTL LIVING ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500142
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.Living.de" tvg-name="DE: RTL LIVING ꜰʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-living-de.png" group-title="DE | RTL",DE: RTL LIVING ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500141
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.Passion.de" tvg-name="DE: RTL PASSION ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-passion-de.png" group-title="DE | RTL",DE: RTL PASSION ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500140
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="RTL.Passion.de" tvg-name="DE: RTL PASSION ꜰʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-passion-de.png" group-title="DE | RTL",DE: RTL PASSION ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500139
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: RTL BAYERN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | RTL",DE: RTL BAYERN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500138
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: RTL BREMEN & NIEDERSACHSEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | RTL",DE: RTL BREMEN & NIEDERSACHSEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500137
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: RTL HAMBURG & SCHLESWIG HOLSTEIN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | RTL",DE: RTL HAMBURG & SCHLESWIG HOLSTEIN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500136
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: RTL HESSEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | RTL",DE: RTL HESSEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500135
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE: RTL NORDRHEIN WESTFALEN ʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/rtl-de.png" group-title="DE | RTL",DE: RTL NORDRHEIN WESTFALEN ʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500134
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="⡷✶ NACHRICHTEN✶⢾" tvg-logo="https://www.xexelogo.com/vip/DE.png" group-title="DE | NACHRICHTEN",⡷✶ NACHRICHTEN✶⢾
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500170
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="n-tv.de" tvg-name="DE: N-TV ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/ntv-de.png" group-title="DE | NACHRICHTEN",DE: N-TV ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500169
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="n-tv.de" tvg-name="DE: NTV ꜰʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/ntv-de.png" group-title="DE | NACHRICHTEN",DE: NTV ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500168
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tagesschau24.de" tvg-name="DE: TAGESSCHAU 24 ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/tagesschau24-de.png" group-title="DE | NACHRICHTEN",DE: TAGESSCHAU 24 ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500167
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="euronews.de" tvg-name="DE: EURONEWS ʀᴀᴡ" tvg-logo="https://www.xexelogo.com/vip/X.png" group-title="DE | NACHRICHTEN",DE: EURONEWS ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/521571
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ZDFinfo.de" tvg-name="DE: ZDF İNFO ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/zdf-info-de.png" group-title="DE | NACHRICHTEN",DE: ZDF İNFO ʀᴀᴡ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500165
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ZDFinfo.de" tvg-name="DE: ZDF INFO ꜰʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/zdf-info-de.png" group-title="DE | NACHRICHTEN",DE: ZDF INFO ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500164
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tagesschau24.de" tvg-name="DE: TAGESSCHAU 24 ꜰʜᴅ" tvg-logo="http://www.xexelogo.com/deutschalnd/tagesschau24-de.png" group-title="DE | NACHRICHTEN",DE: TAGESSCHAU 24 ꜰʜᴅ
+http://iptv.tv-world.vip:80/xkpCKfcT/dbJDPDd/500166
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonnenklar.TV.de" tvg-name="DE: SONNENKLAR TV ʀᴀᴡ" tvg-logo="http://www.xexelogo.com/deutschalnd/sonnenklar-tv-de.png" group-title="DE | NACHRICHTEN",DE: SONNENKLAR TV ʀᴀᴡ
